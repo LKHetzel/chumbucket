@@ -2,15 +2,30 @@
 ; Change Directories to match - please keep your files organized!!!
 ; USE FULL PATH!
 ;
+; CHUMMER DATA SETTINGS
 ; Player Data Save File Path (*.chum5 files)
 SYNCDATA=TRUE
-CHUM5DIR=C:\Users\Logan\Documents\shadowrun\player_data
+CHUM5DIR=
 ;
 ; Chummer Configuration File Path (Usually Chummer Directory/settings/default)
 SYNCCONF=TRUE
-CHUMCONFDIR=C:\Users\Logan\Downloads\Chummer5.208.0\settings\default
+CHUMCONFDIR=
 ;
 ; Shadowrun Books File Path (PDF)
 ; NOTE: Books will only sync books that get added to cut down on upload time.
 SYNCBOOKS=TRUE
-BOOKSDIR=D:\Shadowrun/ Books\
+BOOKSDIR=
+;
+;
+; AWS SETTINGS
+; API Key Settings
+ACCESSKEY=
+SECRETKEY=
+;
+; S3 Bucket Name
+S3BUCKET=
+;
+;
+; CHUMBUCKET SETTINGS
+; Data File History Count
+HISTORY=
