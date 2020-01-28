@@ -1,0 +1,16 @@
+; Chumbucket Configuration
+; Change Directories to match - please keep your files organized!!!
+; USE FULL PATH!
+;
+; Player Data Save File Path (*.chum5 files)
+SYNCDATA=TRUE
+CHUM5DIR=C:\Users\Logan\Documents\shadowrun\player_data
+;
+; Chummer Configuration File Path (Usually Chummer Directory/settings/default)
+SYNCCONF=TRUE
+CHUMCONFDIR=C:\Users\Logan\Downloads\Chummer5.208.0\settings\default
+;
+; Shadowrun Books File Path (PDF)
+; NOTE: Books will only sync books that get added to cut down on upload time.
+SYNCBOOKS=TRUE
+BOOKSDIR=D:\Shadowrun/ Books\
